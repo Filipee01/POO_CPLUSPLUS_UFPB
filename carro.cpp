@@ -59,6 +59,7 @@ int main(void) {
     Transacao transacao(conta1, conta2, 200.0);
     transacao.executar();
 
+// finish
 
     return 0;
 }
