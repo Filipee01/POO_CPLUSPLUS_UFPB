@@ -1,8 +1,10 @@
-// //alterar codigos para colocar os smart pointers...
-// #include <iostream>
+//alterar codigos para colocar os smart pointers...
+#include <iostream>
 
-// int main(void) {
+std::cout
 
+int main(void) {
+    cout << "Hello World";
 
-//   return 0;
-// }
+  return 0;
+}
