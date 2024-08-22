@@ -1,0 +1,8 @@
+- herança em c++ (permitir criar subtipos)
+- encapsulamento protected
+- métodos construtores
+- tipos de herança
+
+class cachorro : piublic animal{
+  
+}
