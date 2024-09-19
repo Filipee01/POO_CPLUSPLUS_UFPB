@@ -144,9 +144,9 @@ public:
 
 
 int main(void) {
-    manager m1("Alice", 1, 5000, 10);
-    tech_lead t1("Bob", 2, 7000, "C++", 5);
-    developer d1("Charlie", 3, 4000, "Python");
+    manager m1("Mbappé", 1, 5000, 10);
+    tech_lead t1("Bob charlton", 2, 7000, "C++", 5);
+    developer d1("Vini", 3, 4000, "Python");
 
     m1.show_info();
     cout << "Role: " << m1.get_role() << endl;
